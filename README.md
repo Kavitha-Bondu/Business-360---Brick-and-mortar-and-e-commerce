@@ -18,15 +18,13 @@ Outcome:
 
 Facilitated data-driven decisions aimed at scaling business processes by 10%.
 Enhanced the ability of departments to benchmark performance, forecast trends, and align strategic goals with operational execution.
-Purpose of Analytics:
+Various Analytical Views:
 
 - **Sales Analytics:** 
-Evaluate financial performance and support decision-making.
-Facilitate communication with stakeholders by providing clear, actionable insights.
-
 - **Finance Data Analysis:**
-Benchmark against industry peers and previous periods.
-Serve as the foundation for budgeting and forecasting efforts.
+- **Marketing Data Analysis:**
+- **Supply Chain Data Analysis:**
+- **Executive Data Analysis:**
 
 - **Role of reports:** 
 Align financial planning with strategic business goals.
