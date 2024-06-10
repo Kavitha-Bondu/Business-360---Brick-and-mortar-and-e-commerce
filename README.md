@@ -20,11 +20,11 @@ Facilitated data-driven decisions aimed at scaling business processes by 10%.
 Enhanced the ability of departments to benchmark performance, forecast trends, and align strategic goals with operational execution.
 Various Analytical Views:
 
-- **Sales Analytics:** 
-- **Finance Data Analysis:**
-- **Marketing Data Analysis:**
-- **Supply Chain Data Analysis:**
-- **Executive Data Analysis:**
+- **Sales Analytics** 
+- **Finance Data Analysis**
+- **Marketing Data Analysis**
+- **Supply Chain Data Analysis**
+- **Executive Data Analysis**
 
 - **Role of reports:** 
 Align financial planning with strategic business goals.
